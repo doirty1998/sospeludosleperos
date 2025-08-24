@@ -1,5 +1,7 @@
-Bienvenidx a la documentación oficial de SOS Peludos Leperos
+Inicio
 ===================================
+
+Bienvenidx a la documentación oficial de SOS Peludos Leperos
 
 **Esta documentación está creada por José Manuel** / Un voluntario de la asociación
 
